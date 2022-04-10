@@ -1,0 +1,55 @@
+body {
+    font: 20px comic, sans-serif;
+}
+
+
+.navbar{
+background-color: rgb(145, 80, 219);
+height: 120px;
+max-width: none;
+}
+
+.font-menu {
+    color: white;
+}
+
+
+.img {
+
+    margin-top: 5px;
+    margin-right: 40px;
+    margin-left: 120px;
+    padding-bottom: 10px;
+
+    padding-top: 0px;
+    padding-left: 10px;
+
+    width: 110px;
+    height: 90px;
+}
+
+.quem-somos {
+    background-color: rgb(206, 168, 241);
+}
+
+.margin {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.parceiros {
+    background-color: rgb(172, 96, 243);
+    color: white;
+}
+
+.serviços {
+    background-color: rgb(200, 155, 241);
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
